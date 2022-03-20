@@ -1,0 +1,45 @@
+body {
+
+background-color: white;
+background-size: 100 auto
+
+}
+
+h1 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 30px
+	color: black;
+    background-color: pink;
+
+	}
+h2,h3 {
+	font-style: serif;
+	background-color: grey;
+    color: orange;
+    text-align: center;
+}
+
+
+p {
+    color: yellow;
+    font-weight: 900
+    font-style: italic;
+    background-color: green;
+}
+
+.um {
+   background-color: lightblue;
+}
+
+.dois {
+      color: lightgreen;
+}
+
+.tres {
+    font-family: times;
+    font-size: 14
+    color: red;
+    font-style: italic;
+
+}
